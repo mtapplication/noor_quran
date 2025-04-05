@@ -2,16 +2,16 @@
   "title": "Donation",
   "bankAccounts": [
     {
-      "bankName": "Meezan Bank",
-      "accountNumber": "1234-5678-9012-3456",
-      "accountHolder": "Noor Foundation",
-      "bankLogoUrl": "https://seeklogo.com/images/M/meezan-bank-logo-184388.svg"
+      "bankName": "KBZ Pay",
+      "accountNumber": "09429123038",
+      "accountHolder": "U Phyo Maung Maung Htun",
+      "bankLogoUrl": "https://www.kbzpay.com/wp-content/uploads/sites/9/2020/04/blue-L-1.png"
     },
     {
-      "bankName": "Habib Bank Limited (HBL)",
-      "accountNumber": "9876-5432-1098-7654",
-      "accountHolder": "Noor Quran Trust",
-      "bankLogoUrl": "https://seeklogo.com/images/H/hbl-logo-171140.svg"
+      "bankName": "Wave Pay",
+      "accountNumber": "09429123038",
+      "accountHolder": "Phyo Mg Mg Tun",
+      "bankLogoUrl": "https://en.myanmartechpress.com/wp-content/uploads/2020/04/85220543_1164993423671414_5087032468804993024_n-1.png"
     }
   ]
 }
