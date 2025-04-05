@@ -1,0 +1,17 @@
+{
+  "title": "Donation",
+  "bankAccounts": [
+    {
+      "bankName": "Meezan Bank",
+      "accountNumber": "1234-5678-9012-3456",
+      "accountHolder": "Noor Foundation",
+      "bankLogoUrl": "https://seeklogo.com/images/M/meezan-bank-logo-184388.svg"
+    },
+    {
+      "bankName": "Habib Bank Limited (HBL)",
+      "accountNumber": "9876-5432-1098-7654",
+      "accountHolder": "Noor Quran Trust",
+      "bankLogoUrl": "https://seeklogo.com/images/H/hbl-logo-171140.svg"
+    }
+  ]
+}
